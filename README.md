@@ -32,6 +32,6 @@
 
 
 ### - Login
-![index](https://github.com/vansoufer/sistemaHelpdesk/blob/master/new-index.png)
+![index](https://github.com/infoedesigner/sistemaHelpdesk/blob/master/new-index.png)
 
 
